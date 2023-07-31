@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vivien8jaco233
+- 👀 I’m interested in iOS app. I’m currently learning Swift.
+- 🌱 Driven to create apps that enhance everyday life for users.
